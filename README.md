@@ -1,1 +1,0 @@
-# saama-gene-training-amol-aws-foc
