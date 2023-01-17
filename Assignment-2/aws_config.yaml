@@ -1,0 +1,5 @@
+aws.s3.RootDir: "amolkadam/Assignment-two"
+aws.s3.InboundDir: "amolkadam/Assignment-two/Inbound"
+aws.s3.LandingDir: "amolkadam/Assignment-two/Landing"
+aws.s3.TempDir: "amolkadam/Assignment-two/temp"
+aws.s3.ArchiveDir: "amolkadam/Assignment-two/Archive"
